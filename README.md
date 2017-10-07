@@ -4,7 +4,7 @@
 
 # Step 2 - configure the container to point to Docker
 
-![Configure Container](images/step 1 - pick web app for containers.png)
+![Configure Container](https://github.com/mikebz/azure-docker-deploy/blob/master/images/step%202%20-%20configure%20container.png)
 
 # Step 3 - ensure there is a startup script.
 
