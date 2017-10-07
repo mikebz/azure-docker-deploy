@@ -8,4 +8,4 @@
 
 # Step 3 - ensure there is a startup script.
 
-![Startup Script](images/step 3 - add configuration script.png)
+![Startup Script](https://github.com/mikebz/azure-docker-deploy/blob/master/images/step%203%20-%20add%20configuration%20script.png)
